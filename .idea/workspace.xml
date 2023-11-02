@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6247a0f8-5aa0-4d65-8f23-f9cbeef35bfd" name="Changes" comment="Ejercicio Biblioteca Corregido 02/11/2023">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="6247a0f8-5aa0-4d65-8f23-f9cbeef35bfd" name="Changes" comment="Eliminado comentario" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -40,7 +43,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "Feauture-main"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,11 +79,28 @@
       <option name="project" value="LOCAL" />
       <updated>1698939287331</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ejercicio Biblioteca Corregido 02/11/2023">
+      <option name="closed" value="true" />
+      <created>1698939450666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698939450666</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Eliminado comentario">
+      <option name="closed" value="true" />
+      <created>1698939858325</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698939858325</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio Biblioteca Corregido 02/11/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio Biblioteca Corregido 02/11/2023" />
+    <MESSAGE value="Eliminado comentario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eliminado comentario" />
   </component>
 </project>
