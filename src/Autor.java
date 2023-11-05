@@ -7,6 +7,8 @@ public class Autor {
     private String fechaNacimento;
     private String localidad;
     private String nif;
+
+    //Este arrayList admite de "0" a "n" elementos
     private ArrayList<Libro>libros;
 
     String getNombre(){

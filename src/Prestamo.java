@@ -2,6 +2,8 @@ public class Prestamo {
     private String codigo;
     private String fechaPrestamo;
     private String fechaDevolucion;
+
+    //Estos se pones cuando solo hay "1", cuando no aparece "n"
     private Usuario usuario;
     private Libro libro;
 

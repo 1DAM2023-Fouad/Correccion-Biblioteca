@@ -7,6 +7,8 @@ public class Usuario {
     private String telefono;
     private String direccion;
     private String poblacion;
+
+    //Este arrayList admite de "0" a "n" elementos
     private ArrayList<Prestamo>prestamos;
 
     public String getNombre() {

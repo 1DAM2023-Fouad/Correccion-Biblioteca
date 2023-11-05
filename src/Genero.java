@@ -4,6 +4,8 @@ public class Genero {
     public String codigo;
     public String nombre;
     public String descripcion;
+
+    //Este arrayList admite de "0" a "n" elementos
     private ArrayList<Libro>libros;
 
     public String getCodigo() {
